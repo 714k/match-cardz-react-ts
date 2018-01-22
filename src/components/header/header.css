@@ -1,0 +1,14 @@
+.App-header {
+  background-color: #2a0046;
+  height: 2em;
+  padding: 1em;
+  color: white; }
+  .App-header .menu {
+    display: inline-block;
+    font-size: 2em;
+    line-height: 1em;
+    margin: 0 0.5em 0 0; }
+  .App-header .App-title {
+    display: inline-block;
+    margin: 0;
+    font-size: 1.5em; }
